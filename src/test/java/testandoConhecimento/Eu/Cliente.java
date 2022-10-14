@@ -11,6 +11,7 @@ public class Cliente {
     private static String apagarDepopis;
     private static String cpf;
     private static String nome;
+    private static String apagarDepoisTMB;
 
     public Cliente() {
     }
