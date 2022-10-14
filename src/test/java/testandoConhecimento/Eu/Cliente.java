@@ -8,14 +8,11 @@ public class Cliente {
     @Id
     private long Id;
 
-    private static String apagarDepopis;
     private static String cpf;
     private static String nome;
-    private static String apagarDepoisTMB;
 
     public Cliente() {
     }
-
 
     public static String getCpf() {
         return cpf;
